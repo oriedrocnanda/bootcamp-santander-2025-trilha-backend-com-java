@@ -1,18 +1,7 @@
-## Getting Started
+## Controle de Fluxo - Desafio 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercício sobre o conteúdo apresentado no módulo **Sintaxe Básica de Java** - Criando Um Pequeno Sistema Para Validação de Processo Seletivo.  
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- O sistema recebe dois parâmetros inteiros via terminal.  
+- Com os dois parâmetros, é obtida a quantidade de iterações `for` e feita a impressão dos números incrementados no console.  
+- Se o primeiro parâmetro for *maior* ou *igual* ao segundo parâmetro, é lançada uma exceção customizada chamada `ParametrosInvalidosException` com a seguinte mensagem: "O segundo parâmetro deve ser maior que o primeiro".  
