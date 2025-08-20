@@ -12,4 +12,4 @@ Exercício sobre o conteúdo apresentado no módulo **Sintaxe Básica de Java** 
 | Saldo | Decimal |237.48
 
 - Com todas as informações inseridas, o sistema exibe a seguinte mensagem: "Olá, [Nome do Cliente]! Obrigado por criar uma conta em nosso banco, sua agência é [Agência], conta [Número] e seu saldo [Saldo] já está disponível para saque."
-- Os campos [] ser alterados pelas informações que são inseridas pelo usuário. 
+- Os campos [ ] ser alterados pelas informações que são inseridas pelo usuário. 
