@@ -6,7 +6,8 @@
 
 ## Exercícios realizados 
 
-1. `ContaTerminal.java`
-2. `Contador.java`
-3. `iPhone2007.java`
-4. desafio-dio-banco -> `Main.java` 
+1. conta-banco: `ContaTerminal.java`
+2. desafio-controle-fluxo: `Contador.java`
+4. desafio-dio-banco: `Main.java` 
+4. iphone-2007: `iPhone2007.java`
+
